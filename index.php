@@ -54,7 +54,7 @@ Gestire il "Database" e la visualizzazione di queste domande e risposte con PHP.
                     <div>
                         <h2><?= $faq["domande"]; ?></h2>
                         <div><?=$faq["risposte"]; ?></div>
-                    <div>
+                    </div>
                 <?php } ?>
                     
             </div>
